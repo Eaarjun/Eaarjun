@@ -11,8 +11,44 @@
 <p align="left">
 </p>
 
-## ⚡ Technologies
+## 📬 Contact me
+<!--- Contact gifs <3 --->
+<div id="bear & snail" align="center">
+  <a href="https://abunchabears.uwu.ai/">
+    <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
+  </a>
+  <a href="https://abunchabears.uwu.ai/">
+    <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
+  </a>
+</div>
 
+<!--- Contact badges --->
+<div id="contact badges" align="center"> 
+  <a href="https://www.buymeacoffee.com/em1e">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
+  </a>
+  <a href="https://stackoverflow.com/u/20376119">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+  <a href="mailto:emi.projects@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+   <a href="https://www.discordapp.com/users/700341252880597095">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+   <a href="https://exercism.org/profiles/Em1e">
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercismexer"/>
+  </a>
+</div>
+
+<!--- Profile view count --->
+<div id="profile-visits text" align="center">
+  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
+</div>
+
+
+## ⚡ Technologies
+<!--- Techology table--->
 <div id="tech stuff" align="center">
   <table>
     <tr> <!--- Row 1 --->
@@ -29,7 +65,7 @@
    </tr>
   </table> 
 </div>
-
+<!---Support --->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/eaarjun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eaarjun" /></a></p><br><br>
 
