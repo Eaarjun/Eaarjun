@@ -24,19 +24,19 @@
 
 <!--- Contact badges --->
 <div id="contact badges" align="center"> 
-  <a href="https://www.buymeacoffee.com/em1e">
+  <a href="https://www.buymeacoffee.com/eaarjun">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
   </a>
-  <a href="https://stackoverflow.com/u/20376119">
+  <!---<a href="https://stackoverflow.com/u/20376119">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
-  </a>
-  <a href="mailto:emi.projects@outlook.com">
+  </a>-->
+  <a href="mailto:akasharjunwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://www.discordapp.com/users/700341252880597095">
+   <a href="https://www.discordapp.com/users/932949724158373908">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-   <a href="https://exercism.org/profiles/Em1e">
+   <a href="https://exercism.org/profiles/eaarjun">
     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercismexer"/>
   </a>
 </div>
