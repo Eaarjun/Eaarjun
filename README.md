@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 ## 📬 Contact me
 <!--- Contact gifs <3 --->
