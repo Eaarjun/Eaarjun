@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eaarjun&label=Profile%20views&color=0e75b6&style=flat" alt="eaarjun" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaarjun" alt="eaarjun" /></a> </p>
 
@@ -43,7 +43,8 @@
 
 <!--- Profile view count --->
 <div id="profile-visits text" align="center">
-  <img src="https://komarev.com/ghpvc/?username=em1e&style=flat-square&color=E1306C" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=eaarjun&label=Profile%20views&color=E1306C&style=flat" alt="eaarjun" /> </p>
+  
 </div>
 
 
