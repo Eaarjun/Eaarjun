@@ -1,73 +1,74 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Arjun</h1>
+<h3 align="center">🐍 Python Developer | 🌍 Building PyGulf | ☁️ Learning DevOps</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBsYB2F5tS1pBni/giphy.gif" width="200" alt="coding gif">
+</p>
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaarjun" alt="eaarjun" /></a> </p>
+### 🧠 About Me
+- 💼 Currently building **[PyGulf](https://pygulf.org)** — a community for Python enthusiasts across the Gulf region.  
+- ☁️ Learning **DevOps** and cloud workflows to improve scalability and automation.  
+- 🐍 Passionate about **Python**, backend systems, and open-source collaboration.  
+- 🎮 I enjoy **gaming**, **meeting new people**, and being part of **developer communities**.  
+- 🌱 Always learning something new every day.
 
-- 🌱 I’m currently learning **React.js**
+---
 
+### 📬 Connect with Me
 
-
-## 📬 Contact me
-<!--- Contact gifs <3 --->
-<div id="bear & snail" align="center">
-  <a href="https://abunchabears.uwu.ai/">
-    <img src="https://github.com/em1e/em1e/blob/main/banners/giphy.gif" width="150"/> 
-  </a>
-  <a href="https://abunchabears.uwu.ai/">
-    <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w.webp" width="200"/>
-  </a>
-</div>
-
-<!--- Contact badges --->
-<div id="contact badges" align="center"> 
+<div id="contact-badges" align="center"> 
   <a href="https://www.buymeacoffee.com/eaarjun">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
   </a>
-  <!---<a href="https://stackoverflow.com/u/20376119">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
-  </a>-->
-  <a href="mailto:akasharjunwork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-   <a href="https://www.discordapp.com/users/932949724158373908">
+  <a href="https://www.discordapp.com/users/932949724158373908">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-   <a href="https://exercism.org/profiles/eaarjun">
+  <a href="https://exercism.org/profiles/eaarjun">
     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="exercismexer"/>
   </a>
 </div>
 
+---
+
+### ⚙️ Tech Stack
+
+#### 🐍 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🧰 Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eaarjun&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaarjun&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### ✨ Fun Fact
+> The best ideas often come from late-night debugging and random conversations with passionate people.
+
+---
+
 <!--- Profile view count --->
-<div id="profile-visits text" align="center">
-  <img src="https://komarev.com/ghpvc/?username=eaarjun&label=Profile%20views&color=E1306C&style=flat" alt="eaarjun" /> </p>
-  
+<div id="profile-visits-text" align="center">
+  <img src="https://komarev.com/ghpvc/?username=eaarjun&label=Profile%20views&color=E1306C&style=flat" alt="eaarjun" />
 </div>
-
-
-## ⚡ Technologies
-<!--- Techology table--->
-<div id="tech stuff" align="center">
-  <table>
-    <tr> <!--- Row 1 --->
-      <th>Programming languages</th>
-      <th>Frameworks, Platforms & Libraries</th>
-      <th>Tools & Databases</th>
-      <th>Learning</th>
-    </tr>
-    <tr> <!--- Row 2 --->
-      <td> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; </td>
-      <td> <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootsrap" alt="bootsrap" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next.js" alt="next.js" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; </td>
-      <td> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="dlender" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp; </td>
-    <td> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp; </td>
-   </tr>
-  </table> 
-</div>
-
-<!---Stars --->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaarjun&show_icons=true&locale=en&layout=compact" alt="eaarjun" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaarjun&show_icons=true&locale=en" alt="eaarjun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaarjun&" alt="eaarjun" /></p>
